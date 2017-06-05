@@ -58,3 +58,6 @@ http://webres.wang/free-table-jquery-plugins/
 1.优秀图表控件（Raphael）
 http://www.cnblogs.com/lwme/p/html5-third-party-chart-libraries.html
 http://webcache.googleusercontent.com/search?q=cache:http://dmitrybaranovskiy.github.io/raphael/
+
+19.  18个loading效果
+http://webres.wang/18-css3-loading-effect/
