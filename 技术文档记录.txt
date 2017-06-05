@@ -73,3 +73,6 @@ http://webres.wang/10-responsive-web-design-testing-tools/
 
 23.18个学习 flexbox 的优质资源
 http://webres.wang/18-resources-learn-flexbox/
+
+24.50+ 个免费的响应式 HTML5 网站模版
+http://webres.wang/50-free-html5-web-templates/
