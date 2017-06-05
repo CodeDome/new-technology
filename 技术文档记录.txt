@@ -82,3 +82,6 @@ http://webres.wang/14-code-demo-sites/
 
 26.15个来自Codepen的令人赞叹的CSS动画例子
 http://webres.wang/15-inspiring-examples-of-css-animation-on-codepen/
+
+27.12个开发人员应该阅读的博客
+http://webres.wang/12-best-web-development-blog/
