@@ -85,3 +85,6 @@ http://webres.wang/15-inspiring-examples-of-css-animation-on-codepen/
 
 27.12个开发人员应该阅读的博客
 http://webres.wang/12-best-web-development-blog/
+
+28.15个最棒的JavaScript图形/图表库
+http://webres.wang/15-best-javascript-charting-libraries/
