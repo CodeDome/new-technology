@@ -79,3 +79,6 @@ http://webres.wang/50-free-html5-web-templates/
 
 25.14个代码展示网站
 http://webres.wang/14-code-demo-sites/
+
+26.15个来自Codepen的令人赞叹的CSS动画例子
+http://webres.wang/15-inspiring-examples-of-css-animation-on-codepen/
