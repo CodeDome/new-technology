@@ -97,3 +97,34 @@ https://cases.aotu.io/
 
 31.H5案例
 http://www.html5tricks.com/tag/css3%E5%8A%A8%E7%94%BB
+
+32.开关按钮
+http://www.html5tricks.com/demo/pure-css3-switch-button/index.html
+
+33.拖拽自由分组
+http://www.html5tricks.com/demo/jquery-drag-group-sort/index.html
+
+34.弹出框
+http://www.html5tricks.com/demo/cool-javascript-dialog/index.html
+
+35.手风琴
+http://www.html5tricks.com/demo/jquery-bootstrap-accordion-menu/index.html
+http://www.html5tricks.com/demo/jquery-metro-accordion-menu/index.html
+
+36.左右滑动名片焦距
+http://www.html5tricks.com/demo/jquery-personal-cards/index.html
+
+37.图片弹出特效
+http://www.html5tricks.com/demo/jquery-image-rotate-pop/index.html
+
+38.垂直新闻滚动代码
+http://www.html5tricks.com/demo/jquery-news-flow/index.html#
+
+39.jQuery垂直缩略图相册插件 支持鼠标滑动翻页
+http://www.html5tricks.com/demo/jquery-ver-gallery-slider/index.html
+
+40.jQuery时间轴鼠标悬停动画插件
+http://www.html5tricks.com/demo/jquery-timeline-hover/index.html
+
+41.jQuery 360度图片旋转插件sprite spin
+http://www.html5tricks.com/category/jquery-plugin/page/27
