@@ -128,3 +128,6 @@ http://www.html5tricks.com/demo/jquery-timeline-hover/index.html
 
 41.jQuery 360度图片旋转插件sprite spin
 http://www.html5tricks.com/category/jquery-plugin/page/27
+
+42.linux 系统
+https://www.evget.com/article/2017/6/12/26401.html?ref=myread
