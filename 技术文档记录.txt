@@ -131,3 +131,6 @@ http://www.html5tricks.com/category/jquery-plugin/page/27
 
 42.linux ϵͳ
 https://www.evget.com/article/2017/6/12/26401.html?ref=myread
+
+43.MAPV
+https://github.com/huiyan-fe/mapv/issues/78
