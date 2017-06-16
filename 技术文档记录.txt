@@ -138,3 +138,6 @@ https://github.com/huiyan-fe/mapv/issues/78
 
 44.webpak和gulp在项目中的使用
 https://github.com/webpack/docs/wiki/configuration#configuration-object-content
+
+45.免费翻墙方法
+https://github.com/racaljk/hosts
