@@ -144,3 +144,10 @@ https://github.com/racaljk/hosts
 
 46.级联下拉菜单
 http://www.html5tricks.com/category/jquery-plugin/page/2
+
+47.CSS3绘制切角
+https://segmentfault.com/a/1190000006969730
+
+48.java知识库
+https://github.com/pzxwhc/MineKnowContainer
+
