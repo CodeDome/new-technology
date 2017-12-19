@@ -151,3 +151,50 @@ https://segmentfault.com/a/1190000006969730
 48.java知识库
 https://github.com/pzxwhc/MineKnowContainer
 
+
+49.世界地图以及各省市地图数据
+https://github.com/ecomfe/echarts/tree/master/map/json
+
+
+50.象形图练习
+http://gallery.echartsjs.com/editor.html?c=xBJiXNw8Zf
+
+51.js操作文件--将数据保存为本地文件
+1.http://blog.csdn.net/huaweidong2011/article/details/17271067
+2.https://teakki.com/p/57dfb553d3a7507f975e9ec0
+
+52.electron打包
+
+1.https://www.cnblogs.com/smiler/p/5553532.html   --解决方案
+
+2.electron-packager . app --win --out presenterTool --arch=x64  --version 1.4.14 --overwrite --ignore=no de_modules 
+
+
+打包命令
+
+2-1  electron-packager . app --win --out keda --arch=x64  --version 1.0.0 --overwrite --ignore=no de_module s --asar
+
+打包命令--带加密
+
+3.start project
+
+
+
+
+4.地图
+http://echarts.baidu.com/echarts2/doc/example/map.html#macarons
+
+http://gallery.echartsjs.com/editor.html?c=xSJ4RvE49g
+
+
+//投影地图
+http://blog.csdn.net/dream361/article/details/52744243
+
+//  echarts.registerMap();
+http://blog.csdn.net/lissic_blog/article/details/52043430
+
+
+52.canvas帧动画
+https://github.com/doxiaodong/frameAnimate
+
+
